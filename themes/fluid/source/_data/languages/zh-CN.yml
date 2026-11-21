@@ -1,0 +1,117 @@
+search:
+  title: 搜索
+  keyword: 关键词
+  status:
+    success: v
+    error: x
+
+postTotal: 共计 %d 篇文章
+
+paginator:
+  pre: 上一页
+  next: 下一页
+
+post:
+  toc: 目录
+  pre: 上一篇
+  next: 下一篇
+
+home:
+  title: 首页
+
+essay:
+  title: 文章
+  subtitle: 文章
+
+archive:
+  title: 归档
+  subtitle: 归档
+
+tag:
+  title: 词云
+  subtitle: 词云
+
+category:
+  title: 分类
+  subtitle: 分类
+
+about:
+  title: 关于
+  subtitle: 关于
+
+page404:
+  title: 页面走丢啦~
+  subtitle: 页面走丢啦~
+
+links:
+  title: 友链
+  subtitle: 友情链接
+
+message:
+  title: 留言
+  subtitle: 留言板
+
+wormhole:
+  menu: '虫洞'
+  title: '十年之约'
+  subtitle: '十年之约'
+
+users:
+  title: '用户'
+  subtitle: '用户'
+
+register:
+  title: '注册'
+  subtitle: '用户注册'
+
+login:
+  title: '登录'
+  subtitle: '用户登录'
+
+admin:
+  title: '后台'
+  subtitle: '管理员登录'
+
+friendcircle:
+  title: '友圈'
+  subtitle: '朋友圈'
+
+friends:
+  title: '动态'
+  subtitle: '动态'
+
+send:
+  title: '传送'
+  subtitle: '传送阵'
+
+travellings:
+  title: '开往'
+  subtitle: '开往'
+
+music:
+  title: '云音'
+  subtitle: '音乐馆'
+
+musichall:
+  title: '音乐'
+  subtitle: '音乐馆'
+
+yesplay:
+  title: '乐馆'
+  subtitle: '音乐馆'
+
+playlist:
+  title: '歌单'
+  subtitle: '音乐馆'
+
+zhblogs:
+  title: '中文博客导航'
+  subtitle: '中文博客导航'
+
+bokelu:
+  title: '博客录'
+  subtitle: '博客录'
+
+boyouquan:
+  title: '博友圈'
+  subtitle: '博友圈'
