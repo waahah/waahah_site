@@ -28,10 +28,10 @@
     "hexo-submit-urls-to-search-engine": "^2.1.0",
     "hexo-theme-landscape": "^1.0.0",
     "live2d-widget-model-haru": "^1.0.5",
-    "simple-oauth2": "^5.0.0"
+    "simple-oauth2": "^5.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.4.2",
-    "@types/simple-oauth2": "^4.1.0"
+    "@types/simple-oauth2": "^5.0.8"
   }
 }
